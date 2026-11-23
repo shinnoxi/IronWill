@@ -24,3 +24,5 @@ An Android workout tracker and progress analytics app built with Kotlin and Jetp
 1. Clone the repository:
    ```bash
    git clone https://github.com/shinnoxi/IronWill.git git clone [https://github.com/shinnoxi/IronWill.git](https://github.com/shinnoxi/IronWill.git)
+## Context
+Developed as a Mobile Application Development course project.
